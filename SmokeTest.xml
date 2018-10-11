@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke_Test">
+  <test name="Test">
+    <classes>
+          <class name="execute_fail_test_case.execute_fail_case"/>
+      <class name="execute_fail_test_case.execute_fail_case2"/>
+      <class name="execute_fail_test_case.execute_fail_case3"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Smoke_Test -->
